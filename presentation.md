@@ -32,7 +32,7 @@ paginate: true
 
 Git is a version control system for files of any type.
 
-Clone the reposistory
+Clone the repository for this presentation:
 
 ```sh
 git clone https://github.com/rmercadojr/Git-Going-With-Git
