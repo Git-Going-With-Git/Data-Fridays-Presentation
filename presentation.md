@@ -113,6 +113,7 @@ After installing git, we must set our name and email:
 ```sh
 git config --global user.name "SpongeBob Squarepants"
 git config --global user.email "spongebob@squarepants.com"
+git config --global credential.helper store
 ```
 
 Verify this was saved by listing the global configuration:
@@ -149,11 +150,47 @@ and enter your *personal access token* when prompted for password.
 
 ---
 
+## Tools
+
+* command line
+* GUI clients
+* IDE integration
+* web applications
+
+---
+
+### Command Line
+
+Git can be used entirely from the command line, and it is the preferred way to use git for many.
+
+However, an easier way to get started is through graphical clients or integrations with your integrated development environment (IDE) of choice, such as RStudio and VSCode.
+
+---
 
 ### GUI Clients
 
 Git GUI clients are graphical applications to make working with git easier.
-Some popular ones can be found in [Git SCM's GUIs](https://git-scm.com/downloads/guis)
+
+Some popular ones can be found in [Git SCM's GUIs](https://git-scm.com/downloads/guis).
+
+---
+
+### IDE Integration
+
+Most IDEs (Integrated Development Environments) facilitate performing the most common git tasks such as
+
+* commit
+* push
+* logs
+* pull
+
+---
+
+### Web Applications
+
+GitHub is an example of a web application that works with git.
+
+Other such applications include Overleaf.
 
 ---
 
