@@ -79,22 +79,22 @@ style: |
 
 **Interactive Learning**
 
-* [Learn Git Branching](https://learngitbranching.js.org/)
-* [Git Kata](https://www.katacoda.com/courses/git)
-* [GitHub Learning](https://lab.github.com/)
+- [Learn Git Branching](https://learngitbranching.js.org/)
+- [Git Kata](https://www.katacoda.com/courses/git)
+- [GitHub Learning](https://lab.github.com/)
 
 **Books**
 
-* [Pro Git](https://git-scm.com/book/en/v2)
+- [Pro Git](https://git-scm.com/book/en/v2)
 
 **Cheat Sheets**
 
-* [Interactive Cheat Sheet](https://ndpsoftware.com/git-cheatsheet.html#loc=index;)
-* [GitHub Git Cheat Sheet](https://training.github.com/downloads/github-git-cheat-sheet.pdf)
+- [Interactive Cheat Sheet](https://ndpsoftware.com/git-cheatsheet.html#loc=index;)
+- [GitHub Git Cheat Sheet](https://training.github.com/downloads/github-git-cheat-sheet.pdf)
 
 **General**
 
-* [GitLab Training](https://about.gitlab.com/learn/)
-* [Official Documentation](https://git-scm.com/doc)
-* [Command list](https://git-scm.com/docs)
-* [Compilation of Tutorials](https://git-scm.com/doc/ext)
+- [GitLab Training](https://about.gitlab.com/learn/)
+- [Official Documentation](https://git-scm.com/doc)
+- [Command list](https://git-scm.com/docs)
+- [Compilation of Tutorials](https://git-scm.com/doc/ext)
