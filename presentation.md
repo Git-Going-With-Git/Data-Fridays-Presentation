@@ -30,7 +30,10 @@ paginate: true
 
 ## **What is Git?**
 
-Git is a version control system for files of any type.
+> Git is software for tracking changes in any set of files, usually used for coordinating work among programmers collaboratively... -- Wikipedia
+
+* A file structure for logging the history of a software project
+* A set of tools for maintaining said file structure
 
 Clone the repository for this presentation:
 
@@ -44,6 +47,23 @@ git clone https://github.com/Git-Going-With-Git/Data-Fridays-Presentation
 
 * repository
 * commit
+* diff
+* branch
+* remote
+* conflict
+* merge
+
+---
+
+## Git Remotes
+
+* GitHub
+* GitLab
+* BitBucket
+
+<br/><br/><br/>
+
+**Note:** Using *markdown* together with git is common and encouraged.
 
 ---
 
@@ -64,6 +84,16 @@ git clone https://github.com/Git-Going-With-Git/Data-Fridays-Presentation
 * resource 2
 * resource 3
 ```
+
+---
+
+## Installation
+
+Installing git
+
+Installation of git may vary depending on the operating system.
+
+Download `git` from [git-scm.com](https://git-scm.com/)
 
 ---
 
@@ -119,6 +149,14 @@ and enter your *personal access token* when prompted for password.
 
 ---
 
+
+### GUI Clients
+
+Git GUI clients are graphical applications to make working with git easier.
+Some popular ones can be found in [Git SCM's GUIs](https://git-scm.com/downloads/guis)
+
+---
+
 <!--
 _class: twocols
 style: |
@@ -142,6 +180,7 @@ style: |
 **Cheat Sheets**
 
 - [Interactive Cheat Sheet](https://ndpsoftware.com/git-cheatsheet.html#loc=index;)
+- [GitHub Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 - [GitHub Git Cheat Sheet](https://training.github.com/downloads/github-git-cheat-sheet.pdf)
 
 **General**
