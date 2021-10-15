@@ -71,6 +71,8 @@ It makes collaboration easier.
 
 ---
 # A Short Demo
+- I am using a GUI for git called Fork
+- I will show hot git is used
 
 
 ---
@@ -80,6 +82,12 @@ It makes collaboration easier.
 - Git cannot resolve conflicts that arise during collaboration
 - If your workflow is convoluted, then it will be hard to collaborate
 - If your project structure is unorganized, then it will be hard to collaborate
+
+
+---
+# Git is Awesome
+
+- It's usfeul
 
 ---
 
