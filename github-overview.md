@@ -83,7 +83,15 @@ Some popular ones include:
 
 ---
 
-# A Short Demo
+# A Short Demo 🖱️
+
+* Overview of the GitHub user interface
+
+Examples 
+* [deepfakes/faceswap](https://github.com/deepfakes/faceswap) repository
+
+
+
 
 ---
 
@@ -125,13 +133,43 @@ and enter your *personal access token* when prompted for password.
 
 # GitHub Features
 
+* organizations, permissions
+* GitHub pages
+* issues, pull requests
+* wiki
+* project management
+* actions
+* packages
+
 ---
 
 ## Issues and Pull Requests
 
+When working collaboratively, it becomes very important to have a place to discuss issues (bugs, questions, other problems) that is *close to* where the actual problems live.
+
+GitHub has the concepts of issues, pull requests, discussions, and projects to help with this. 
+
+**DEMO** 🖱️
+
 ---
 
 ## GitHub Pages
+
+Simple static websites can be hosted on GitHub itself. To host a website on GitHub, the special `gh-page` branch is used.
+
+Examples of websites that may be hosted on GitHub pages include:
+
+* documentation
+* simple personal website/blog
+* R Markdown
+* Jupyter Notebooks
+
+---
+
+# Git Clients
+
+* Command line 🖱️
+* GitKraken 🖱️
 
 ---
 
@@ -139,19 +177,22 @@ and enter your *personal access token* when prompted for password.
 
 Many popular IDEs (integrated development environments) have native git integration.
 
-- RStudio
-- VS Code
+- RStudio 🖱️ - [Example R Studio Repository](https://github.com/rmercadojr/Statistical-Learning---Case-Study-1)
+- VS Code 🖱️ - [Presentation Example](https://github.com/Git-Going-With-Git/Data-Fridays-Presentation)
 - JetBrains' IDEs
 
 ---
 
 # Integration With 3rd Party Apps
 
-GitHub is an example of a web application that works with git. Other such applications include Overleaf. Additionally, many third party applications connect to GitHub itself.
+There are many third party applications integrate very well with GitHub. Here's a short list of such applications:
 
-- Overleaf
-- cocalc.com
-- diagrams.net
+- Overleaf 🖱️ - [Overleaf Example](https://www.overleaf.com/project/615282411e6ff12dfd3ca7be), [Repository Example](https://github.com/rmercadojr/MATH-8371---Homework-02)
+- Replit 🖱️ - [replit example](https://github.com/rmercadojr/ExamplePythonRepl/tree/master)
+- Diagrams dot Net 🖱️ - [ExampleDiagram.drawio Example](https://github.com/Git-Going-With-Git/Data-Fridays-Presentation/tree/main/examples)
+- CoCalc - has GitHub integration but requires paid subscription
+- Jira, Monday, ClickUp
+- Slack, Teams - useful for notifications
 
 ---
 
