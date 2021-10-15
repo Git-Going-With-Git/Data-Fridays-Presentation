@@ -32,20 +32,42 @@ paginate: true
 
 # What is GitHub?
 
+GitHub is a hostd version of git that can be used to collaborate with others. It is usually used as the *centralized* git repository.
+
+Besides git, GitHub also has other features commonly used when collaborating in projects:
+
+- issue management
+- discussions
+- project management
+- wiki
+
 ---
 
 # Why is GitHub useful?
+
+GitHub is the leading platform for *open source projects*, as it facilitates working in projects with a team.
+
+- code (or any files, really) lives in the cloud, so you can access your files from anywhere
+- central place to manage project
+- easy to share work with others
+- integrations to other commonly used platforms
+- **FREE** (...mostly free)
+
 
 ---
 
 # Terminology
 
+- public repository / private repository
+- issue / pull request
+- `README.md` / markdown
+- organizations
+- GitHub pages
+- actions / continuous deployment
+- author / contributor / owner
+- clone / fork
+
 ---
-
-# A Short Demo
-
----
-
 
 # Git Remotes
 
@@ -53,11 +75,24 @@ Git remotes are basically "hosted git" external to one's own computer. They faci
 
 Some popular ones include:
 
-* GitHub
-* GitLab
-* BitBucket
+- GitHub
+- GitLab
+- BitBucket
 
 **Note:** Using *markdown* together with git is common and encouraged.
+
+---
+
+# A Short Demo
+
+---
+
+# GitHub Is Not Magic. Collaboration Is Still (kinda) Hard
+
+- Using GitHub well requires good project management practices and constant management
+- Non-git features are rudimentary
+- User interface is busy and may be intimidating
+- Learning curve (as with git) may be large
 
 ---
 
@@ -88,11 +123,35 @@ and enter your *personal access token* when prompted for password.
 
 ---
 
-# Integrations With 3rd Party Apps
+# GitHub Features
 
-GitHub is an example of a web application that works with git.
+---
 
-Other such applications include Overleaf.
+## Issues and Pull Requests
+
+---
+
+## GitHub Pages
+
+---
+
+# Integration With IDEs
+
+Many popular IDEs (integrated development environments) have native git integration.
+
+- RStudio
+- VS Code
+- JetBrains' IDEs
+
+---
+
+# Integration With 3rd Party Apps
+
+GitHub is an example of a web application that works with git. Other such applications include Overleaf. Additionally, many third party applications connect to GitHub itself.
+
+- Overleaf
+- cocalc.com
+- diagrams.net
 
 ---
 
