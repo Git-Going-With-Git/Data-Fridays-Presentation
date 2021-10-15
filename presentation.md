@@ -68,6 +68,10 @@ It makes collaboration easier.
 - conflict
 - merge
 
+
+---
+# A Short Demo
+
 ---
 
 ## Git Remotes
