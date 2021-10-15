@@ -152,14 +152,14 @@ GitHub has the concepts of issues, pull requests, discussions, and projects to h
 
 ## GitHub Pages
 
-Simple static websites can be hosted on GitHub itself. To host a website on GitHub, the special `gh-page` branch is used.
-
-Examples of websites that may be hosted on GitHub pages include:
+Simple static websites can be hosted on GitHub itself. To host a website on GitHub, the special `gh-page` branch is used. Examples of websites that may be hosted on GitHub pages include:
 
 - documentation
 - simple personal website/blog
 - R Markdown
 - Jupyter Notebooks
+
+**DEMO** [https://datafriday.gitgoingwithgit.com/](https://datafriday.gitgoingwithgit.com/)
 
 ---
 
