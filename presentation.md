@@ -17,8 +17,8 @@ Git overview presentation for Data Fridays
 
 https://gitgoingwithgit.com/
 
-* Data Friday
-* October 15, 2021
+- Data Friday
+- October 15, 2021
 
 ---
 
