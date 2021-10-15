@@ -65,8 +65,8 @@ It makes collaboration easier.
 - diff
 - branch
 - remote
-- conflict
 - merge
+- conflict
 
 
 ---
