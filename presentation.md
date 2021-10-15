@@ -45,13 +45,14 @@ git clone https://github.com/Git-Going-With-Git/Data-Fridays-Presentation
 ---
 # Why Is Git Useful?
 
-It makes sharing work easier.
+It makes collaboration easier.
 
-- collaborators can see your work
-- It's easy to "pull" the changes on remote repos (from collaborators)
-- It's easy to see changes.
+- It's easy to "pull" the changes on remote repos from collaborators.
+- It's easy to see the changes you and your collaborators make.
 - You can maintain separate branches of work.
-- You can merge your work
+- You can merge your work.
+- If you accidentally break something, git can revert it.
+- Github (and clones) are *the* "hubs" for collaboration.
 
 
 
