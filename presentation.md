@@ -72,6 +72,15 @@ It makes collaboration easier.
 ---
 # A Short Demo
 
+
+---
+# Git Is Not Magic. Collaboration Is Still Hard
+
+- Git knows nothing about your source code
+- Git cannot resolve conflicts that arise during collaboration
+- If your workflow is convoluted, then it will be hard to collaborate
+- If your project structure is unorganized, then it will be hard to collaborate
+
 ---
 
 ## Git Remotes
