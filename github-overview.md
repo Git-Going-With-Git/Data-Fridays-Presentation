@@ -32,7 +32,7 @@ paginate: true
 
 # What is GitHub?
 
-GitHub is a hostd version of git that can be used to collaborate with others. It is usually used as the *centralized* git repository.
+GitHub is a hosted version of git that can be used to collaborate with others. It is usually used as a *centralized* git repository.
 
 Besides git, GitHub also has other features commonly used when collaborating in projects:
 
@@ -53,14 +53,13 @@ GitHub is the leading platform for *open source projects*, as it facilitates wor
 - integrations to other commonly used platforms
 - **FREE** (...mostly free)
 
-
 ---
 
 # Terminology
 
 - public repository / private repository
 - issue / pull request
-- `README.md` / markdown
+- markdown / `README.md`
 - organizations
 - GitHub pages
 - actions / continuous deployment
@@ -83,18 +82,18 @@ Some popular ones include:
 
 ---
 
-# A Short Demo 🖱️
+# A Short Demo
 
-Overview of the GitHub user interface
+🖱️ Overview of the GitHub user interface
 
 Examples 
-- [deepfakes/faceswap](https://github.com/deepfakes/faceswap) repository
+- 🖱️ [deepfakes/faceswap](https://github.com/deepfakes/faceswap) repository
 
 ---
 
 # GitHub Is Not Magic. Collaboration Is Still (kinda) Hard
 
-- Using GitHub well requires good project management practices and constant management
+- Using GitHub well requires good project management practices and constant maintenance
 - Non-git features are rudimentary
 - User interface is busy and may be intimidating
 - Learning curve (as with git) may be large
@@ -103,7 +102,7 @@ Examples
 
 # GitHub Configuration
 
-Your local git installation should be configured to authenticate
+🖱️ Your local git installation should be configured to authenticate
 to a remote such as GitHub to be able to `clone` or `pull` from a GitHub repository. In GitHub, go to *settings* and
 
 1. choose *Developer settings*
@@ -118,7 +117,7 @@ to a remote such as GitHub to be able to `clone` or `pull` from a GitHub reposit
 
 The first time `clone`ing a project from GitHub, you will be prompted for a *username* and a *password*. This is misleading as GitHub now requires the personal access token to be used as the password.
 
-Clone this presentation's repository with
+🖱️ Clone this presentation's repository with
 
 ```sh
 git clone https://github.com/Git-Going-With-Git/Data-Fridays-Presentation
@@ -146,7 +145,7 @@ When working collaboratively, it becomes very important to have a place to discu
 
 GitHub has the concepts of issues, pull requests, discussions, and projects to help with this. 
 
-**DEMO** 🖱️
+🖱️ **DEMO**
 
 ---
 
@@ -159,14 +158,14 @@ Simple static websites can be hosted on GitHub itself. To host a website on GitH
 - R Markdown
 - Jupyter Notebooks
 
-**DEMO** [https://datafriday.gitgoingwithgit.com/](https://datafriday.gitgoingwithgit.com/)
+🖱️ **DEMO** [https://datafriday.gitgoingwithgit.com/](https://datafriday.gitgoingwithgit.com/)
 
 ---
 
 # Git Clients
 
-- Command line 🖱️
-- GitKraken 🖱️
+- 🖱️ Command line
+- 🖱️ GitKraken
 
 ---
 
@@ -174,19 +173,19 @@ Simple static websites can be hosted on GitHub itself. To host a website on GitH
 
 Many popular IDEs (integrated development environments) have native git integration.
 
-- RStudio 🖱️ - [Example R Studio Repository](https://github.com/rmercadojr/Statistical-Learning---Case-Study-1)
-- VS Code 🖱️ - [Presentation Example](https://github.com/Git-Going-With-Git/Data-Fridays-Presentation)
+- 🖱️ RStudio - [Example R Studio Repository](https://github.com/rmercadojr/Statistical-Learning---Case-Study-1)
+- 🖱️ VS Code - [Presentation Example](https://github.com/Git-Going-With-Git/Data-Fridays-Presentation)
 - JetBrains' IDEs
 
 ---
 
 # Integration With 3rd Party Apps
 
-There are many third party applications integrate very well with GitHub. Here's a short list of such applications:
+There are many third party applications that integrate very well with GitHub. Here's a short list of such applications:
 
-- Overleaf 🖱️ - [Overleaf Example](https://www.overleaf.com/project/615282411e6ff12dfd3ca7be), [Repository Example](https://github.com/rmercadojr/MATH-8371---Homework-02)
-- Replit 🖱️ - [replit example](https://github.com/rmercadojr/ExamplePythonRepl/tree/master)
-- Diagrams dot Net 🖱️ - [ExampleDiagram.drawio Example](https://github.com/Git-Going-With-Git/Data-Fridays-Presentation/tree/main/examples)
+- 🖱️ Overleaf - [Overleaf Example](https://www.overleaf.com/project/615282411e6ff12dfd3ca7be), [Repository Example](https://github.com/rmercadojr/MATH-8371---Homework-02)
+- 🖱️ Replit - [replit example](https://github.com/rmercadojr/ExamplePythonRepl/tree/master)
+- 🖱️ Diagrams Net - [ExampleDiagram.drawio Example](https://github.com/Git-Going-With-Git/Data-Fridays-Presentation/tree/main/examples)
 - CoCalc - has GitHub integration but requires paid subscription
 - Jira, Monday, ClickUp
 - Slack, Teams - useful for notifications
