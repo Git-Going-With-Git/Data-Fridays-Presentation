@@ -85,13 +85,10 @@ Some popular ones include:
 
 # A Short Demo 🖱️
 
-* Overview of the GitHub user interface
+Overview of the GitHub user interface
 
 Examples 
-* [deepfakes/faceswap](https://github.com/deepfakes/faceswap) repository
-
-
-
+- [deepfakes/faceswap](https://github.com/deepfakes/faceswap) repository
 
 ---
 
@@ -133,13 +130,13 @@ and enter your *personal access token* when prompted for password.
 
 # GitHub Features
 
-* organizations, permissions
-* GitHub pages
-* issues, pull requests
-* wiki
-* project management
-* actions
-* packages
+- organizations, permissions
+- GitHub pages
+- issues, pull requests
+- wiki
+- project management
+- actions
+- packages
 
 ---
 
@@ -159,17 +156,17 @@ Simple static websites can be hosted on GitHub itself. To host a website on GitH
 
 Examples of websites that may be hosted on GitHub pages include:
 
-* documentation
-* simple personal website/blog
-* R Markdown
-* Jupyter Notebooks
+- documentation
+- simple personal website/blog
+- R Markdown
+- Jupyter Notebooks
 
 ---
 
 # Git Clients
 
-* Command line 🖱️
-* GitKraken 🖱️
+- Command line 🖱️
+- GitKraken 🖱️
 
 ---
 
