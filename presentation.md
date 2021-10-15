@@ -60,13 +60,13 @@ It makes collaboration easier.
 
 ## Terminology
 
-* repository
-* commit
-* diff
-* branch
-* remote
-* conflict
-* merge
+- repository
+- commit
+- diff
+- branch
+- remote
+- conflict
+- merge
 
 ---
 
